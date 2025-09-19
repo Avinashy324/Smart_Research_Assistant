@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered research assistant that generates structured, evidence-based reports with citations from uploaded files and real-time data sources.
 
+Link to the site : https://merry-haupia-9aa80d.netlify.app/
+
 ## 🚀 Features
 
 ### ✅ Currently Implemented
